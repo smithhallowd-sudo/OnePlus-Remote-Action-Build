@@ -44,6 +44,8 @@ Build OnePlus latest kernel for your device with KSUN/WildKSU/KSU + SusFS anytim
 | OP-ACE-RACE |✅|✅| |
 | OP-ACE |✅|✅| |
 | OP-OPEN | |✅|✅|
+| OP-PAD-4 | | |✅|
+| OP-PAD-3-PRO | | |✅|
 | OP-PAD-3-SM8750 | |✅|✅|
 | OP-PAD-3-MT6897 | |✅|✅|
 | OP-PAD-2-PRO | |✅|✅|
